@@ -1,7 +1,4 @@
-using Unity.VisualScripting;
-using UnityEditor.Rendering.LookDev;
 using UnityEngine;
-using UnityEngine.InputSystem;
 
 [RequireComponent(typeof(Animator))]
 public class PlayerController : MonoBehaviour
